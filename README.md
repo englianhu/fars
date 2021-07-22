@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![Travis build
-status](https://travis-ci.com/BFavetto/fars.svg?branch=master)](https://travis-ci.com/BFavetto/fars)
+status](https://travis-ci.com/englianhu/fars.svg?branch=master)](https://travis-ci.com/englianhu/fars)
 <!-- badges: end -->
 
 The goal of fars is to handle FARS dat (week 4 final assignment for the
@@ -20,5 +20,5 @@ from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("BFavetto/fars")
+devtools::install_github("englianhu/fars")
 ```
